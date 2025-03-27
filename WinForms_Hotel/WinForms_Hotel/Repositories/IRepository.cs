@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WinForms_Hotel.Classes
+{
+    public interface IRepository<T>
+    {
+        List<T> GetAll();
+        T GetById(int id);
+        void Add(T entity);
+        void Remove(T entity);
+    }
+}

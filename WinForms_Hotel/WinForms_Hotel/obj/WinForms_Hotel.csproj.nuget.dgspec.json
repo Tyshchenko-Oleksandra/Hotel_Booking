@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\WinForms_Hotel.csproj": {}
+    "D:\\Learning\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\WinForms_Hotel.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\WinForms_Hotel.csproj": {
+    "D:\\Learning\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\WinForms_Hotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\WinForms_Hotel.csproj",
+        "projectUniqueName": "D:\\Learning\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\WinForms_Hotel.csproj",
         "projectName": "WinForms_Hotel",
-        "projectPath": "D:\\Studying\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\WinForms_Hotel.csproj",
+        "projectPath": "D:\\Learning\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\WinForms_Hotel.csproj",
         "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\obj\\",
+        "outputPath": "D:\\Learning\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
