@@ -1,3 +1,5 @@
+using WinForms_Hotel.Classes;
+
 namespace WinForms_Hotel
 {
     internal static class Program
@@ -21,7 +23,7 @@ namespace WinForms_Hotel
             HotelRepository<Hotel_5Star> hotelRepository = new HotelRepository<Hotel_5Star>();
             hotelRepository.Add(hotel1);
 
-            RoomRepository<Room> roomRepository = new RoomRepository<Room>();
+            RoomRepository roomRepository = new RoomRepository();
             roomRepository.Add(room1);
             roomRepository.Add(room2);
 

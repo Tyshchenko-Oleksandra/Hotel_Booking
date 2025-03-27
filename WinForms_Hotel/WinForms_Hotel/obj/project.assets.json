@@ -106,11 +106,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Олександра\\source\\repos\\Hotel_Booking\\WinForms_hotel\\WinForms_Hotel\\WinForms_Hotel.csproj",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "D:\\Learning\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\WinForms_Hotel.csproj",
+      "projectName": "WinForms_Hotel",
+      "projectPath": "D:\\Learning\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\WinForms_Hotel.csproj",
+      "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
+      "outputPath": "D:\\Learning\\ОП\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Олександра\\source\\repos\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\WinForms_Hotel.csproj",
+>>>>>>> 5963e5cd68e31295e307d60701a4e2eeee9a6de9
       "projectName": "WinForms_Hotel",
       "projectPath": "C:\\Users\\Олександра\\source\\repos\\Hotel_Booking\\WinForms_hotel\\WinForms_Hotel\\WinForms_Hotel.csproj",
       "packagesPath": "C:\\Users\\Олександра\\.nuget\\packages\\",
+<<<<<<< HEAD
       "outputPath": "C:\\Users\\Олександра\\source\\repos\\Hotel_Booking\\WinForms_hotel\\WinForms_Hotel\\obj\\",
+=======
+      "outputPath": "C:\\Users\\Олександра\\source\\repos\\Hotel_Booking\\WinForms_Hotel\\WinForms_Hotel\\obj\\",
+>>>>>>> 3bd40b801653c0fbc47ff26039b671c4717daa2f
+>>>>>>> 5963e5cd68e31295e307d60701a4e2eeee9a6de9
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
