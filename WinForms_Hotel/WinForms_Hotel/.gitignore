@@ -1,0 +1,18 @@
+# Папки тимчасових файлів Visual Studio
+.vs/
+obj/
+bin/
+
+# Файли, створювані під час компіляції
+*.obj
+*.dll
+*.exe
+*.pdb
+*.cache
+*.tmp
+
+# Файли, пов'язані з налаштуваннями користувача
+*.user
+*.userosscache
+*.suo
+*.userprefs
